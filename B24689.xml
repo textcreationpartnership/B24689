@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy General, and General Governour of Ireland. A declaration for the good government of the Army. Tyrconnel, we having by our late declaration bearing date the 20th day of July last past; thought fit to make known what the clear pay coming to every private foot souldier by his Majesty's establishment is yearly, ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24689</idno><idno type="EEBO-CITATION">99886355</idno>
+  <idno type="VID">186613</idno>
+  <idno type="EEBO-PROQUEST">2264215672</idno>
+  
+            <idno type="STC">Wing I378</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[41]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[39]</idno>
+            <idno type="STC">ESTC R225884</idno>
+            <idno type="PROQUEST">ocm99886355</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886355e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186613)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[41]; C23:1[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy General, and General Governour of Ireland. A declaration for the good government of the Army. Tyrconnel, we having by our late declaration bearing date the 20th day of July last past; thought fit to make known what the clear pay coming to every private foot souldier by his Majesty's establishment is yearly, ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>5 sheets ([5] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold at the Kings printinghouse on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at his Majesties castle of Dublin the 24th day of August 1688.".</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  Armed forces --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1688-1689 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186613:1"/>
+            <head type="illustration">
+               <figure>
+                  <q>HONI SOIT QVI MALY PENSE</q>
+                  <q>· DIEV · ET MON · DROIT</q>
+               </figure>
+            </head>
+            <head>BY THE Lord Deputy General, AND General Governour of IRELAND. A DECLARATION For the Good Government of the Army.</head>
+            <opener>
+               <salute>TYRCONNEL,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E Having by our late Declaration bearing Date the <hi>20th</hi> day of <hi>July</hi> last past; thought fit to make known what the clear Pay coming to every pri<g ref="char:EOLhyphen"/>vate Foot Souldier by His Majesty's Establish<g ref="char:EOLhyphen"/>ment is yearly, and how the same is to be Dis<g ref="char:EOLhyphen"/>posed of for his Subsistence and Clothing; For the Prevention of such Abuses and Disorders as have been formerly Committed by several Of<g ref="char:EOLhyphen"/>ficers, in Defrauding their Men in that behalf. And We thinking Fit that the like Regulation be Made in Respect of The Horse and Dra<g ref="char:EOLhyphen"/>goons, and the Regiment of Guards; Do hereby make Known what The Clear Pay coming to each Private Horseman and Dragoon, and Private Centinel in the said Regiment of Guards is yearly; and in what Manner he also is to be Accounted with for the Same.</p>
+            <pb facs="tcp:186613:2"/>
+            <p>The Pay of a Private Horseman for a Year, as he is now Paid, after all Deductions that are to be taken from Him, which are for Poundage, Hospital, and Agents, Comes to — 23<hi>l.</hi> 14<hi>s.</hi> 7<hi>d.</hi> ¼ For which he is to be Accounted with as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>d.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <hi>q.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For his Subsistence, and other Necessaries for himself, and Horse, at six shillings a week</hi>
+                     </cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For a Coat and a Hat, for which he shall have a particular Ac<g ref="char:EOLhyphen"/>count</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Remainder of his Pay, for which he is to be Accounted with every three Months</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>07</hi>
+                     </cell>
+                     <cell>
+                        <hi>¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>07</hi>
+                     </cell>
+                     <cell>
+                        <hi>¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Each Corporal, Kettle-Drum, and Trumpet, is to have for his Subsistence weekly 10 <abbr>
+                              <hi>s.</hi>
+                           </abbr>
+                        </hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Pay of a Private Dragoon for a year, as he is now Paid, after all Deductions that are to be taken from him; which are for Poundage, Hospital, and Agents, comes to</hi>
+                     </cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For his Subsistence, at 4<abbr>
+                              <hi>s.</hi>
+                           </abbr> 6<abbr>
+                              <hi>d.</hi>
+                           </abbr> a week</hi>
+                     </cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For his Clothing, at 2<abbr>
+                              <hi>d.</hi>
+                           </abbr> a day for 336 days</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Remainder of his Pay, for which he is to be Accounted with every three Months</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Each Serjeant of Dragoons to have 8 <abbr>
+                              <hi>s.</hi>
+                           </abbr> a week.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Each Corporal, Drum, and Hoboy to have 4<abbr>
+                              <hi>s.</hi>
+                           </abbr> 6<abbr>
+                              <hi>d.</hi>
+                           </abbr> weekly for sub<g ref="char:EOLhyphen"/>sistence</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Pay of a Private Centinel in the Regiment of Guards, for a year, as he is now paid, after all Deductions that are to be taken from him, which are for Poundage, and Hospital, comes to</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For his Subsistence, at two shillings six pence a week</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>His Clothing and Accoutrements, as now Clothed</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Remainder of his Pay, for which he is to be Accounted with at the end of every year</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>09</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>We are pleased that every private Horseman and Dragoon, shall be fairly Accounted with by his Officer every three Months, for the overplus of his Pay which remains after his Subsistence and Clothing is satisfied.</p>
+            <p>And whereas it may happen that several Captains of Horse and Dra<g ref="char:EOLhyphen"/>goons are necessitated to mount some of their private Men, by which the said Men may be indebted for the said Horses; We are pleased that the Officer may Reimburse himself out of the said Mans Pay by reaso<g ref="char:EOLhyphen"/>nable Deductions, allowing Him a Reasonable Subsistence to Maintain Himself and his Horse, such as the Collonel or Commandant of each Re<g ref="char:EOLhyphen"/>giment shall direct. No Deduction is to be made for Clerks, We allow<g ref="char:EOLhyphen"/>ing of none in any Troop or Company of this Army; but expecting that every Captain by Himself, or one of his Officers whom he shall appoint
+<pb facs="tcp:186613:3"/> shall keep the Accounts of the Troop or Company; and shall take espe<g ref="char:EOLhyphen"/>cial care that the Men keep their Arms, Clothes, Linnen, and other Ac<g ref="char:EOLhyphen"/>coutrements whole, neat, and clean.</p>
+            <p>And in Case any of the Souldiers of this Army shall Fail of Recei<g ref="char:EOLhyphen"/>ving their aforesaid Subsistence weekly, and their Clothes and other Ac<g ref="char:EOLhyphen"/>coutrements provided for as aforesaid. We do allow any number not ex<g ref="char:EOLhyphen"/>ceeding Five of any Troop or Company that shall be Agrieved, to send up Their Petition to Vs by the Post, in Behalf of the Said Troop or Company, for Redress, as often as They shall have Iust Occasion of Com<g ref="char:EOLhyphen"/>plaint.</p>
+            <p>And We do Declare, That if any Captain or other Officer in this King<g ref="char:EOLhyphen"/>dom, do Detain any part of the said weekly Subsistence, or of the Clo<g ref="char:EOLhyphen"/>thing and Accoutrements aforesaid, otherwise than as aforesaid is directed, that he shall be Punished with the utmost severity that the nature of the Offence does deserve.</p>
+            <p>We do Straitly Charge and Command all Officers of this His Ma<g ref="char:EOLhyphen"/>jesty's Army, to see that Almighty God be duly and reverently served, and that they do take Especial Care in their Respective Garrisons and Quar<g ref="char:EOLhyphen"/>ters to give good example to those under their Commands by a religious so<g ref="char:EOLhyphen"/>ber and orderly demeanor, and that they do not only themselves abstain but restrain all persons under them from Blasphemy, prophane Swearing, and Cursing, Drunkness and from all other Leudness and Debauchery whatever, but on the contrary that they do duly and reverently serve God by Frequenting the Churches and Chappels at the times of Divine service at least on Sundays and Holidays; and that those who do either wilfully ab<g ref="char:EOLhyphen"/>sent themselves or misbehave themselves there be sevearly punished, That all the Roman Catholick Souldiers in this Army do always at Easter and at least once every year besides Receive the holy Sacrament, of which each Souldier is to produce a Certificate to the Collonel of each Regi<g ref="char:EOLhyphen"/>ment or Commandant of the place, under the hand of the Priest from whom he received the same on pain of loosing three Months pay for Each Default herein.</p>
+            <p>We strictly require all the Chaplains of this Army that they duly attend their respective Regiments, and that at least one Chaplain be constantly with each Regiment, and that they do at least on Sundays and Holydays Cate<g ref="char:EOLhyphen"/>chise and exhort the Souldiers and hear their confessions at Easter and other Vsual Feasts, We do expect that the said Officers and Soldiers shall in all other particulars behave and demean themselves as becomes good Christians and Loyal Subjects; that they do not insult any of the Magistrates or Inha<g ref="char:EOLhyphen"/>bitants on their March or in their Quarters, nor offer any violence to their persons or goods, And that no Officer shall presume to Quarter any Offi<g ref="char:EOLhyphen"/>cers or Souldiers under his Command, but by the billets of the proper Ma<g ref="char:EOLhyphen"/>gistrates, and that on their March no Officer or souldier doe Press any of the Kings Subjects, Horses or Carriages, but by the assistance and Warrant of the Magistrate or other Civil Officer of the place who are to Furnish them for their mony they paying the usual Rates for the same.</p>
+            <p>And whereas we expect that all Officers and Souldiers in his Majesties Pay shall keep within their respective Garrisons not having leave from us
+<pb facs="tcp:186613:4"/> or their Officers, according to the Rules proscribed by our said Decla<g ref="char:EOLhyphen"/>ration of the <hi>20th</hi> of <hi>July</hi> last past We doe hereby require all Officers of the Army, Mayors, Iustices of the Peace, High and Petty Constables, and all other his Majesties Officers Ministers Civil and Military, that wher<g ref="char:EOLhyphen"/>ever they shall find any privat Souldiers stragling from their Garrisons or Quarters not having sufficient passports in writing, to seize them and send them to the next Garrison or Quarters, from whence they are to be sent from quarter to quarter till they come to the Garison or Quarter to which they belong, of which the Commandant in the respective Garrisons is to take notice and to see our pleasure in this particular duly executed.</p>
+            <p>And We having thought fit by our Orders lately issued to the Collonel or Commandant of each Regiment of Horse to make known our pleasure that but one Trumpet be allowed in each Troope of Horse, as by his Majesties Establishment is provided, and that one of the Trumpets now entertain<g ref="char:EOLhyphen"/>ed be forthwith discharged; and a good Horse-man well mounted and ac<g ref="char:EOLhyphen"/>coutred be put presently in the place of the Trumpet to be dismised, We leav<g ref="char:EOLhyphen"/>ing it to the Election of the Captain of each Troop to dismiss which of the two Trumpets at present imployed he shall think fit, as also that no Of<g ref="char:EOLhyphen"/>ficers servant shall ride in the Ranks of any Troop excepting one of the Cor<g ref="char:EOLhyphen"/>nets who is to carry the Standard, and that no man on any pretence what<g ref="char:EOLhyphen"/>ever shall ride in the Ranks of any Troop that is not a real Trooper, or has any dependance on any Officer whatever, as also requiring the Lieutenant-Collonels and Majors of Horse and Dragoons, to visit every Troop in their respective Regiments at least once in two Months; and the Majors in Regard they have no Troopes of their own, that they shall stay four or five dayes in each Horse Quarter, that they may be fully acquainted with the state and Condition of each Troop, and may know their Order and disciplin and be inabled to give us a distinct account thereof, which We expect they shall do once Every two Months by giving us in, a Roll of each Troop with the Men and Officers Names Markt in it, that are Present and Absent, together with the cause of their Absence, as also an account of what Men and Horses they Iudge unfit for the Kings Service. We do Strictly charge and Command all Officers of Horse and Dragoons Con<g ref="char:EOLhyphen"/>cerned to see this our pleasure presently and punctually executed as they will answer the Contrary on Forfeiture of their respective Commissions.</p>
+            <p>All Officers and Soldiers, of his Majesties Army are hereby strictly required upon demand to be aiding and Assisting to any of the Civil Ma<g ref="char:EOLhyphen"/>gistrates in following and apprehending of any Tories or Robbers, or Supressing of Riots and Tumults, and to his Majesties Officers of the Customs and Excise in the due execution of their Imployment in hinder<g ref="char:EOLhyphen"/>ing his Majesty from being defrauded of his just duties, and by no means to be Aiding or Assisting to any that shall be concerned in any such practices upon pain of undergoing the utmost Severities that the nature of the Fact shall deserve.</p>
+            <p>And whereas great Abuses have been commited by the Liberty hereto<g ref="char:EOLhyphen"/>fore taken by Officers of Impresting Mony in the Treasury in behalf of the Troops and Companies under their Command, We do Strictly will and Require that no Officer on any pretence whatever shall Imprest any of the Souldiers pay.</p>
+            <pb facs="tcp:186613:5"/>
+            <p>And to the end that all Officers and Souldiers may be fully instructed in every particular of their duty, and of our Pleasure in these and other matters not herein particularly mentioned and expressed.</p>
+            <p>It is our will and pleasure that every Officer of Horse, Foot and Dra<g ref="char:EOLhyphen"/>goones and the eldest Corporal of each Troop of Horse, and the eldest Ser<g ref="char:EOLhyphen"/>jeant of each Troop of Dragoones and Company of Foot in this his Ma<g ref="char:EOLhyphen"/>jesties Army shall have and keep constantly by him a Coppy of the Arti<g ref="char:EOLhyphen"/>cles of Warr and of this our Declaration, as also of that of the <hi>20th</hi> of <hi>July</hi> last past, and of such other Orders which we already have or shall from time to time think fit to publish for the good Government of the Army and that the Commandant in each Garrison and Quarter do once in three Months draw out the men under his Command and cause the same to be di<g ref="char:EOLhyphen"/>stinctly read before them, that they may not be in any wise able to plead ignor<g ref="char:EOLhyphen"/>ance of the same.</p>
+            <p>And We do think fit that this our Declaration be forthwith Read and Published at the head of every Troop and Company, and also be posted up and fixed in the Market and other publick places in all Cities Towns Gar<g ref="char:EOLhyphen"/>risons and Quarters in and throughout this Kingdom, to the end that no person whatever may plead Ignorance of the same.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at His Majesties Castle of <hi>Dublin</hi>
+                  </hi>
+                  <date>
+                     <hi>the 24th day of <hi>August</hi> 1688.</hi>
+                  </date>
+               </dateline>
+               <signed>VV. ELLIS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; and are to be Sold at the Kings Printinghouse on <hi>Ormonde-Key,</hi> and the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
